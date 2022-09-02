@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio-pottencial
+# Repositorio do Desafio de Projeto sobre Git/GitHub da Dio-Pottencial
 Desafio de Projeto sobre o Git/GitHub
